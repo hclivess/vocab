@@ -1,0 +1,1 @@
+F:\Vocab\balcon.exe -s -3 -sb 500 -se 500 -n "IVONA 2 Brian" -t Yeoman -w F:\Vocab\output\Yeoman.mp3
